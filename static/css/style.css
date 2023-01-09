@@ -44,6 +44,20 @@ body{
     text-decoration: underline;
 }
 
+/*
+********
+about page
+********
+*/
+.about_me_img{
+    background-color: var(--dark-brown);
+    background-image: url('../img/a3.jpg');
+    background-size: cover;
+    width: 350px;
+    border-radius: 50%;
+    height: 400px;
+}
+
 #footer{
     margin-top: 100px;
     padding-top: 30px;
