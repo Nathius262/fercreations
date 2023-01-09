@@ -36,8 +36,12 @@ body{
     color: var(--white);
 }
 
-#section5, #section4{
+#section5, #section4, .id_Section5{
     margin-top: 200px;
+}
+
+.underlined{
+    text-decoration: underline;
 }
 
 #footer{
